@@ -26,6 +26,6 @@ It leverages advanced Natural Language Processing (NLP) to unlock emotional inte
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/EmotionIQ.git
+git clone https://github.com/ambujpandey1/EmotionIQ.git
 cd EmotionIQ
 ```
