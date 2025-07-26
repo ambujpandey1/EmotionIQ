@@ -3,6 +3,8 @@
 EmotionIQ is an AI-powered tool that analyzes text to detect underlying sentiments and emotions with high accuracy.  
 It leverages advanced Natural Language Processing (NLP) to unlock emotional intelligence from written communication.
 
+## Project Link(live): [https://emotioniq.streamlit.app/](https://emotioniq.streamlit.app/)
+
 ## 🌟 Features
 
 - 🔍 Sentiment Analysis (Positive, Negative, Neutral)
